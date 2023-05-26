@@ -1,6 +1,6 @@
 <h1> ChallengeBI - 1 semana</h1>
    
-> Status do projeto: Em desenvolvimento <h/b3>
+> Status do projeto: Em desenvolvimento
  
 > Link Power Bi:  https://app.powerbi.com/view?r=eyJrIjoiYzQ4ODVlZmUtNmYxNS00MGU5LWI1ODQtOGNkNjBhY2E2Y2Q0IiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9&embedImagePlaceholder=true 
 
